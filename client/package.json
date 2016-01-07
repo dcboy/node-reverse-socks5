@@ -1,0 +1,22 @@
+{
+  "name": "dmxbox_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binary": "^0.3.0",
+    "body-parser": "^1.14.2",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "macaddress": "^0.2.8",
+    "md5": "^2.0.0",
+    "put": "0.0.6",
+    "websocket": "^1.0.22"
+  }
+}
